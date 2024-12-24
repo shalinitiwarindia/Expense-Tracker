@@ -44,7 +44,8 @@ The **Expense Tracker App** is a user-friendly and responsive web application de
 5. Open the app in your browser at `http://localhost:3000`.
 
 ### Screenshots
-(Add some relevant screenshots of your app here to showcase its interface and features.)
+![image](https://github.com/user-attachments/assets/fc179ce9-6a95-479a-9389-958a50dcf387)
+
 
 ### Future Improvements
 - **User Authentication**: Allow users to sign in and have a personalized experience with their own transactions.
