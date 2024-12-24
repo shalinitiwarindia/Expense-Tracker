@@ -52,8 +52,7 @@ The **Expense Tracker App** is a user-friendly and responsive web application de
 - **Export Data**: Allow users to export their transaction data to CSV or Excel format.
 - **Currency Conversion**: Add the ability to track expenses in different currencies and convert them.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ---
 
