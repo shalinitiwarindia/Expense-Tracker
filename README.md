@@ -48,6 +48,7 @@ The **Expense Tracker App** is a user-friendly and responsive web application de
 ![image](https://github.com/user-attachments/assets/855d86fa-0b02-4aed-8cb1-fd3776a61c39)
 ![image](https://github.com/user-attachments/assets/7c267657-3ebc-48d9-aca8-d2740d49b516)
 ![image](https://github.com/user-attachments/assets/dd67dc74-2245-499f-9339-de5b153bc834)
+![image](https://github.com/user-attachments/assets/6fdf1289-8d79-48e2-ab36-8a1cc9f8c5f3)
 
 
 ### Future Improvements
